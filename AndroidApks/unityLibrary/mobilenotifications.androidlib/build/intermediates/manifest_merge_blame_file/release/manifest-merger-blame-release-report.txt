@@ -1,0 +1,47 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.unity.androidnotifications" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="22"
+6-->D:\TechLove\GitHub\gadc\unity\Grid-Placer\AndroidApks\unityLibrary\mobilenotifications.androidlib\src\main\AndroidManifest.xml
+7        android:targetSdkVersion="22" />
+7-->D:\TechLove\GitHub\gadc\unity\Grid-Placer\AndroidApks\unityLibrary\mobilenotifications.androidlib\src\main\AndroidManifest.xml
+8
+9    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+9-->D:\TechLove\GitHub\gadc\unity\Grid-Placer\AndroidApks\unityLibrary\mobilenotifications.androidlib\src\main\AndroidManifest.xml:11:3-75
+9-->D:\TechLove\GitHub\gadc\unity\Grid-Placer\AndroidApks\unityLibrary\mobilenotifications.androidlib\src\main\AndroidManifest.xml:11:20-72
+10
+11    <application>
+11-->D:\TechLove\GitHub\gadc\unity\Grid-Placer\AndroidApks\unityLibrary\mobilenotifications.androidlib\src\main\AndroidManifest.xml:2:3-10:17
+12        <receiver
+12-->D:\TechLove\GitHub\gadc\unity\Grid-Placer\AndroidApks\unityLibrary\mobilenotifications.androidlib\src\main\AndroidManifest.xml:3:5-113
+13            android:name="com.unity.androidnotifications.UnityNotificationManager"
+13-->D:\TechLove\GitHub\gadc\unity\Grid-Placer\AndroidApks\unityLibrary\mobilenotifications.androidlib\src\main\AndroidManifest.xml:3:15-85
+14            android:exported="false" />
+14-->D:\TechLove\GitHub\gadc\unity\Grid-Placer\AndroidApks\unityLibrary\mobilenotifications.androidlib\src\main\AndroidManifest.xml:3:86-110
+15        <receiver
+15-->D:\TechLove\GitHub\gadc\unity\Grid-Placer\AndroidApks\unityLibrary\mobilenotifications.androidlib\src\main\AndroidManifest.xml:4:5-8:16
+16            android:name="com.unity.androidnotifications.UnityNotificationRestartReceiver"
+16-->D:\TechLove\GitHub\gadc\unity\Grid-Placer\AndroidApks\unityLibrary\mobilenotifications.androidlib\src\main\AndroidManifest.xml:4:15-93
+17            android:enabled="false"
+17-->D:\TechLove\GitHub\gadc\unity\Grid-Placer\AndroidApks\unityLibrary\mobilenotifications.androidlib\src\main\AndroidManifest.xml:4:94-117
+18            android:exported="false" >
+18-->D:\TechLove\GitHub\gadc\unity\Grid-Placer\AndroidApks\unityLibrary\mobilenotifications.androidlib\src\main\AndroidManifest.xml:4:118-142
+19            <intent-filter>
+19-->D:\TechLove\GitHub\gadc\unity\Grid-Placer\AndroidApks\unityLibrary\mobilenotifications.androidlib\src\main\AndroidManifest.xml:5:7-7:23
+20                <action android:name="android.intent.action.BOOT_COMPLETED" />
+20-->D:\TechLove\GitHub\gadc\unity\Grid-Placer\AndroidApks\unityLibrary\mobilenotifications.androidlib\src\main\AndroidManifest.xml:6:9-71
+20-->D:\TechLove\GitHub\gadc\unity\Grid-Placer\AndroidApks\unityLibrary\mobilenotifications.androidlib\src\main\AndroidManifest.xml:6:17-68
+21            </intent-filter>
+22        </receiver>
+23
+24        <meta-data
+24-->D:\TechLove\GitHub\gadc\unity\Grid-Placer\AndroidApks\unityLibrary\mobilenotifications.androidlib\src\main\AndroidManifest.xml:9:5-99
+25            android:name="com.unity.androidnotifications.exact_scheduling"
+25-->D:\TechLove\GitHub\gadc\unity\Grid-Placer\AndroidApks\unityLibrary\mobilenotifications.androidlib\src\main\AndroidManifest.xml:9:16-78
+26            android:value="0" />
+26-->D:\TechLove\GitHub\gadc\unity\Grid-Placer\AndroidApks\unityLibrary\mobilenotifications.androidlib\src\main\AndroidManifest.xml:9:79-96
+27    </application>
+28
+29</manifest>

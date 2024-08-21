@@ -1,0 +1,4 @@
+#Sat Jul 27 10:54:27 IST 2024
+base.0=D\:\\TechLove\\GitHub\\gadc\\unity\\Grid-Placer\\AndroidApks\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

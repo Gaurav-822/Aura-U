@@ -1,0 +1,21 @@
+<dependencies>
+  <compile
+      roots="D:\TechLove\GitHub\gadc\unity\Grid-Placer\AndroidApks@@:unityLibrary::release">
+    <dependency
+        name="D:\TechLove\GitHub\gadc\unity\Grid-Placer\AndroidApks@@:unityLibrary::release"
+        simpleName="AndroidApks:unityLibrary"/>
+  </compile>
+  <package
+      roots="D:\TechLove\GitHub\gadc\unity\Grid-Placer\AndroidApks@@:unityLibrary::release,__local_aars__:D:\TechLove\GitHub\gadc\unity\Grid-Placer\AndroidApks\unityLibrary\libs\classes.jar:unspecified@jar,__local_aars__:D:\TechLove\GitHub\gadc\unity\Grid-Placer\AndroidApks\unityLibrary\libs\unity-classes.jar:unspecified@jar,D:\TechLove\GitHub\gadc\unity\Grid-Placer\AndroidApks@@:unityLibrary:mobilenotifications.androidlib::release">
+    <dependency
+        name="D:\TechLove\GitHub\gadc\unity\Grid-Placer\AndroidApks@@:unityLibrary::release"
+        simpleName="AndroidApks:unityLibrary"/>
+    <dependency
+        name="__local_aars__:D:\TechLove\GitHub\gadc\unity\Grid-Placer\AndroidApks\unityLibrary\libs\classes.jar:unspecified@jar"/>
+    <dependency
+        name="__local_aars__:D:\TechLove\GitHub\gadc\unity\Grid-Placer\AndroidApks\unityLibrary\libs\unity-classes.jar:unspecified@jar"/>
+    <dependency
+        name="D:\TechLove\GitHub\gadc\unity\Grid-Placer\AndroidApks@@:unityLibrary:mobilenotifications.androidlib::release"
+        simpleName="AndroidApks.unityLibrary:mobilenotifications.androidlib"/>
+  </package>
+</dependencies>

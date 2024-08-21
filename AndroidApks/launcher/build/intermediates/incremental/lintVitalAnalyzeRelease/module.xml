@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="D:\TechLove\GitHub\gadc\unity\Grid-Placer\AndroidApks\launcher"
+    name=":launcher"
+    type="APP"
+    maven="AndroidApks:launcher:"
+    gradle="7.1.2"
+    buildFolder="build"
+    bootClassPath="D:\TechLove\Unity\Unity Editor\2022.3.29f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\platforms\android-33\android.jar;D:\TechLove\Unity\Unity Editor\2022.3.29f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\build-tools\32.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="11"
+    compileTarget="android-33"
+    neverShrinking="true">
+  <lintOptions
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

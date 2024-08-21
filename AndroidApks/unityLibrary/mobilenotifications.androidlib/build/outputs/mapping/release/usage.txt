@@ -1,0 +1,385 @@
+bitter.jnibridge.JNIBridge$a
+bitter.jnibridge.JNIBridge
+com.google.androidgamesdk.ChoreographerCallback$a
+com.google.androidgamesdk.ChoreographerCallback$b
+com.google.androidgamesdk.ChoreographerCallback
+com.google.androidgamesdk.SwappyDisplayManager$a
+com.google.androidgamesdk.SwappyDisplayManager$b
+com.google.androidgamesdk.SwappyDisplayManager
+com.unity.androidnotifications.BuildConfig
+com.unity.androidnotifications.UnityNotificationBackgroundThread:
+    private static final int TASKS_FOR_HOUSEKEEPING
+com.unity.androidnotifications.UnityNotificationManager:
+    static final java.lang.String NOTIFICATION_CHANNELS_SHARED_PREFS
+    static final java.lang.String NOTIFICATION_CHANNELS_SHARED_PREFS_KEY
+    static final java.lang.String NOTIFICATION_IDS_SHARED_PREFS
+    static final java.lang.String NOTIFICATION_IDS_SHARED_PREFS_KEY
+    private static final int PERMISSION_STATUS_ALLOWED
+    private static final int PERMISSION_STATUS_DENIED
+    private static final int PERMISSION_STATUS_NOTIFICATIONS_BLOCKED_FOR_APP
+    static final java.lang.String TAG_UNITY
+com.unity.androidnotifications.UnityNotificationRestartReceiver:
+    private static final long EXPIRATION_TRESHOLD
+com.unity.androidnotifications.UnityNotificationUtilities:
+    private static final int INTENT_SERIALIZATION_VERSION
+    private static final int NOTIFICATION_SERIALIZATION_VERSION
+    static final java.lang.String SAVED_NOTIFICATION_FALLBACK_KEY
+    static final java.lang.String SAVED_NOTIFICATION_PRIMARY_KEY
+com.unity3d.player.A
+com.unity3d.player.AudioVolumeHandler
+com.unity3d.player.B:
+    private android.content.Context a
+    private com.unity3d.player.UnityPlayer b
+    private boolean c
+    public boolean d
+    public void <init>(android.content.Context,com.unity3d.player.UnityPlayer,java.lang.String,int,boolean,boolean,boolean,boolean,java.lang.String,int,boolean,boolean)
+    public void a(int,int)
+    private void a(android.widget.EditText,java.lang.String,int,boolean,boolean,boolean,java.lang.String,int)
+    private void a(java.lang.String,boolean)
+    public void afterTextChanged(android.text.Editable)
+    private java.lang.String b()
+    public void beforeTextChanged(java.lang.CharSequence,int,int,int)
+    protected android.view.View createSoftInputView()
+    public boolean dispatchTouchEvent(android.view.MotionEvent)
+    public void onBackPressed()
+    public void onClick(android.view.View)
+    public void onTextChanged(java.lang.CharSequence,int,int,int)
+com.unity3d.player.C$a
+com.unity3d.player.C
+com.unity3d.player.Camera2Wrapper
+com.unity3d.player.D
+com.unity3d.player.E
+com.unity3d.player.F
+com.unity3d.player.G:
+    static void a(java.lang.String)
+com.unity3d.player.GoogleARCoreApi
+com.unity3d.player.H
+com.unity3d.player.HFPStatus$1
+com.unity3d.player.HFPStatus$a
+com.unity3d.player.HFPStatus
+com.unity3d.player.I:
+    private com.unity3d.player.a a
+    private com.unity3d.player.UnityPlayer b
+    private com.unity3d.player.w c
+    public void <init>(android.content.Context,com.unity3d.player.UnityPlayer)
+    private java.lang.String a(android.content.Context)
+    private boolean a()
+    public void b()
+com.unity3d.player.IAssetPackManagerDownloadStatusCallback
+com.unity3d.player.IAssetPackManagerMobileDataConfirmationCallback
+com.unity3d.player.IAssetPackManagerStatusQueryCallback
+com.unity3d.player.IPermissionRequestCallbacks
+com.unity3d.player.IUnityPlayerLifecycleEvents
+com.unity3d.player.J:
+    private boolean a
+    private boolean b
+    private boolean c
+    private boolean d
+    void <init>()
+    boolean a()
+    boolean a(boolean)
+    void b(boolean)
+    boolean b()
+    void c(boolean)
+    boolean c()
+    void d(boolean)
+    static void e()
+    void e(boolean)
+    static void f()
+    public java.lang.String toString()
+com.unity3d.player.K
+com.unity3d.player.L
+com.unity3d.player.M
+com.unity3d.player.MultiWindowSupport
+com.unity3d.player.N
+com.unity3d.player.NativeLoader
+com.unity3d.player.NetworkConnectivity:
+    public void a()
+com.unity3d.player.NetworkConnectivityNougat:
+    public void a()
+com.unity3d.player.O
+com.unity3d.player.OrientationLockListener
+com.unity3d.player.P
+com.unity3d.player.PermissionFragment$a
+com.unity3d.player.PermissionFragment$b
+com.unity3d.player.PermissionFragment
+com.unity3d.player.PlatformSupport:
+    public void <init>()
+com.unity3d.player.PlayAssetDeliveryUnityWrapper
+com.unity3d.player.Q
+com.unity3d.player.ReflectionHelper$a
+com.unity3d.player.ReflectionHelper$b
+com.unity3d.player.ReflectionHelper$c
+com.unity3d.player.ReflectionHelper$d
+com.unity3d.player.ReflectionHelper
+com.unity3d.player.S
+com.unity3d.player.T
+com.unity3d.player.U$a
+com.unity3d.player.U
+com.unity3d.player.UnityCoreAssetPacksStatusCallbacks
+com.unity3d.player.UnityPermissions$ModalWaitForPermissionResponse
+com.unity3d.player.UnityPermissions
+com.unity3d.player.UnityPlayer$A
+com.unity3d.player.UnityPlayer$B
+com.unity3d.player.UnityPlayer$C
+com.unity3d.player.UnityPlayer$D
+com.unity3d.player.UnityPlayer$E
+com.unity3d.player.UnityPlayer$F$a
+com.unity3d.player.UnityPlayer$F
+com.unity3d.player.UnityPlayer$G
+com.unity3d.player.UnityPlayer$SynchronizationTimeout
+com.unity3d.player.UnityPlayer$a
+com.unity3d.player.UnityPlayer$b$a
+com.unity3d.player.UnityPlayer$b
+com.unity3d.player.UnityPlayer$c
+com.unity3d.player.UnityPlayer$d
+com.unity3d.player.UnityPlayer$h
+com.unity3d.player.UnityPlayer$i
+com.unity3d.player.UnityPlayer$j
+com.unity3d.player.UnityPlayer$k
+com.unity3d.player.UnityPlayer$l
+com.unity3d.player.UnityPlayer$m
+com.unity3d.player.UnityPlayer$n
+com.unity3d.player.UnityPlayer$o
+com.unity3d.player.UnityPlayer$p
+com.unity3d.player.UnityPlayer$q
+com.unity3d.player.UnityPlayer$t
+com.unity3d.player.UnityPlayer$u
+com.unity3d.player.UnityPlayer$v
+com.unity3d.player.UnityPlayer$w
+com.unity3d.player.UnityPlayer$x
+com.unity3d.player.UnityPlayer$y
+com.unity3d.player.UnityPlayer$z
+com.unity3d.player.UnityPlayer:
+    private static final java.lang.String ARCORE_ENABLE_METADATA_NAME
+    private static final java.lang.String AUTO_REPORT_FULLY_DRAWN_ENABLE_METADATA_NAME
+    private static final java.lang.String LAUNCH_FULLSCREEN
+    private static final int RUN_STATE_CHANGED_MSG_CODE
+    private static final java.lang.String SPLASH_ENABLE_METADATA_NAME
+    private static final java.lang.String SPLASH_MODE_METADATA_NAME
+    public static android.content.Context currentContext
+    private int mInitialScreenOrientation
+    private boolean mIsFullscreen
+    private boolean mMainDisplayOverride
+    private int mNaturalOrientation
+    private android.view.OrientationEventListener mOrientationListener
+    private boolean mProcessKillRequested
+    private boolean mQuitting
+    private com.unity3d.player.J mState
+    private com.unity3d.player.U mVideoPlayerProxy
+    private com.unity3d.player.GoogleARCoreApi m_ARCoreApi
+    private boolean m_AddPhoneCallListener
+    private com.unity3d.player.AudioVolumeHandler m_AudioVolumeHandler
+    private com.unity3d.player.Camera2Wrapper m_Camera2Wrapper
+    private final java.util.concurrent.ConcurrentLinkedQueue m_Events
+    private com.unity3d.player.UnityPlayer$B m_FakeListener
+    private com.unity3d.player.HFPStatus m_HFPStatus
+    com.unity3d.player.UnityPlayer$F m_MainThread
+    private com.unity3d.player.OrientationLockListener m_OrientationLockListener
+    private com.unity3d.player.UnityPlayer$D m_PhoneCallListener
+    private com.unity3d.player.C m_SplashScreen
+    private android.telephony.TelephonyManager m_TelephonyManager
+    private com.unity3d.player.IUnityPlayerLifecycleEvents m_UnityPlayerLifecycleEvents
+    private android.content.res.Configuration prevConfig
+    public void <init>(android.content.Context)
+    public void <init>(android.content.Context,com.unity3d.player.IUnityPlayerLifecycleEvents)
+    private void DisableStaticSplashScreen()
+    private void EarlyEnableFullScreenIfEnabled()
+    private java.lang.String GetGlViewContentDescription(android.content.Context)
+    private boolean IsWindowTranslucent()
+    public static void UnitySendMessage(java.lang.String,java.lang.String,java.lang.String)
+    protected void addPhoneCallListener()
+    public boolean addViewToPlayer(android.view.View,boolean)
+    private void checkResumePlayer()
+    public void configurationChanged(android.content.res.Configuration)
+    public void destroy()
+    protected void disableLogger()
+    public boolean displayChanged(int,android.view.Surface)
+    protected void executeGLThreadJobs()
+    private void finish()
+    private int getNaturalOrientation(int)
+    public java.lang.String getNetworkProxySettings(java.lang.String)
+    private static java.lang.String getUnityNativeLibraryPath(android.content.Context)
+    private void hidePreservedContent()
+    protected void hideSoftInput()
+    private void hideStatusBar()
+    public void init(int,boolean)
+    private final native void initJni(android.content.Context)
+    protected boolean initializeGoogleAr()
+    protected boolean isFinishing()
+    protected boolean isUaaLUseCase()
+    protected void kill()
+    protected boolean loadLibrary(java.lang.String)
+    private static java.lang.String loadNative(java.lang.String)
+    private static java.lang.String logLoadLibMainError(java.lang.String,java.lang.String)
+    public void lowMemory()
+    private final native void nativeApplicationUnload()
+    private final native boolean nativeDone()
+    private final native void nativeFocusChanged(boolean)
+    private final native void nativeHidePreservedContent()
+    private final native boolean nativeIsAutorotationOn()
+    private final native void nativeLowMemory()
+    private final native void nativeMuteMasterAudio(boolean)
+    private final native void nativeOrientationChanged(int,int)
+    private final native boolean nativePause()
+    private final native void nativeRecreateGfxState(int,android.view.Surface)
+    private final native boolean nativeRender()
+    private final native void nativeReportKeyboardConfigChanged()
+    private final native void nativeRestartActivityIndicator()
+    private final native void nativeResume()
+    private final native void nativeSendSurfaceChangedEvent()
+    private final native void nativeSetInputArea(int,int,int,int)
+    private final native void nativeSetInputSelection(int,int)
+    private final native void nativeSetInputString(java.lang.String)
+    private final native void nativeSetKeyboardIsVisible(boolean)
+    private final native void nativeSetLaunchURL(java.lang.String)
+    private final native void nativeSoftInputCanceled()
+    private final native void nativeSoftInputClosed()
+    private final native void nativeSoftInputLostFocus()
+    private static native void nativeUnitySendMessage(java.lang.String,java.lang.String,byte[])
+    public void newIntent(android.content.Intent)
+    public void onPause()
+    public void onResume()
+    public void onStart()
+    public void onStop()
+    public void onUnityPlayerQuitted()
+    public void onUnityPlayerUnloaded()
+    public void pause()
+    protected void pauseJavaAndCallUnloadCallback()
+    private void pauseUnity()
+    void postOnUiThread(java.lang.Runnable)
+    private static void preloadJavaPlugins()
+    private void queueDestroy()
+    private void queueGLThreadEvent(com.unity3d.player.UnityPlayer$G)
+    void queueGLThreadEvent(java.lang.Runnable)
+    public void quit()
+    public void removeViewFromPlayer(android.view.View)
+    public void reportError(java.lang.String,java.lang.String)
+    protected void reportSoftInputArea(android.graphics.Rect)
+    protected void reportSoftInputIsVisible(boolean)
+    protected void reportSoftInputSelection(int,int)
+    protected void reportSoftInputStr(java.lang.String,int,boolean)
+    protected void requestUserAuthorization(java.lang.String)
+    public void resume()
+    void runOnAnonymousThread(java.lang.Runnable)
+    void sendSurfaceChangedEvent()
+    protected void setSelection(int,int)
+    protected void setupUnityToBePaused()
+    protected void setupUnityToBeResumed()
+    protected void showSoftInput(java.lang.String,int,boolean,boolean,boolean,boolean,java.lang.String,int,boolean,boolean)
+    protected boolean showVideoPlayer(java.lang.String,int,int,int,boolean,int,int)
+    private void shutdown()
+    protected boolean skipPermissionsDialog()
+    public boolean startOrientationListener(int)
+    public boolean stopOrientationListener()
+    private void swapViews(android.view.View,android.view.View)
+    protected void toggleGyroscopeSensor(boolean)
+    public void unload()
+    private static void unloadNative()
+    private boolean updateDisplayInternal(int,android.view.Surface)
+    void updateGLDisplay(int,android.view.Surface)
+    public void windowFocusChanged(boolean)
+com.unity3d.player.a.a
+com.unity3d.player.a
+com.unity3d.player.b
+com.unity3d.player.c
+com.unity3d.player.d
+com.unity3d.player.e
+com.unity3d.player.f
+com.unity3d.player.g
+com.unity3d.player.h
+com.unity3d.player.i
+com.unity3d.player.j
+com.unity3d.player.k
+com.unity3d.player.l
+com.unity3d.player.m
+com.unity3d.player.n
+com.unity3d.player.o
+com.unity3d.player.p
+com.unity3d.player.q
+com.unity3d.player.r
+com.unity3d.player.s
+com.unity3d.player.t
+com.unity3d.player.v
+com.unity3d.player.w
+com.unity3d.player.x
+com.unity3d.player.y
+com.unity3d.player.z
+org.fmod.FMODAudioDevice
+org.fmod.a
+com.unity.androidnotifications.NotificationChannelWrapper:
+    public boolean canBypassDnd
+    public boolean canShowBadge
+    public java.lang.String description
+    public boolean enableLights
+    public boolean enableVibration
+    public java.lang.String name
+com.unity.androidnotifications.UnityNotificationBackgroundThread$CancelAllNotificationsTask:
+    public synthetic void <init>(com.unity.androidnotifications.UnityNotificationBackgroundThread$1)
+com.unity.androidnotifications.UnityNotificationBackgroundThread:
+    public static void access$100(com.unity.androidnotifications.UnityNotificationBackgroundThread,java.util.Set)
+    public void enqueueCancelAllNotifications()
+    public void enqueueCancelNotification(int)
+    public final void enqueueHousekeeping()
+    public void enqueueNotification(int,android.app.Notification$Builder,boolean,boolean)
+    public final boolean executeTask(com.unity.androidnotifications.UnityNotificationManager,com.unity.androidnotifications.UnityNotificationBackgroundThread$Task,java.util.concurrent.ConcurrentHashMap)
+    public final void performHousekeeping(java.util.Set)
+com.unity.androidnotifications.UnityNotificationManager:
+    public final void finalizeNotificationForDisplay(android.app.Notification$Builder)
+    public final java.util.Set findInvalidNotificationIds(java.util.Set)
+    public final int generateUniqueId()
+    public final android.app.PendingIntent getActivityPendingIntent(int,android.content.Intent,int)
+    public final android.os.Bundle getAppMetadata()
+    public final java.lang.Object getNotificationOrBuilderForIntent(android.content.Intent)
+    public final synchronized java.util.Set getScheduledNotificationIDs()
+    public final void initialize(android.app.Activity,com.unity.androidnotifications.NotificationCallback)
+    public static boolean isInForeground()
+    public final android.graphics.Bitmap loadBitmap(java.lang.String)
+    public void performNotificationHousekeeping(java.util.Set)
+    public synchronized void saveNotification(android.app.Notification,boolean)
+    public synchronized void saveScheduledNotificationIDs(java.util.Set)
+    public void scheduleAlarmWithNotification(android.app.Notification$Builder)
+    public final void scheduleNotificationIntentAlarm(long,long,android.app.PendingIntent)
+    public final void setupBigPictureStyle(android.app.Notification$Builder)
+com.unity.androidnotifications.UnityNotificationRestartReceiver:
+    public static boolean rescheduleNotification(com.unity.androidnotifications.UnityNotificationManager,java.util.Date,android.app.Notification$Builder)
+    public static void rescheduleSavedNotifications(android.content.Context)
+com.unity.androidnotifications.UnityNotificationUtilities:
+    public static android.app.Notification$Builder deserializeNotificationCustom(android.content.Context,java.io.DataInputStream)
+    public static android.app.Notification deserializeNotificationParcelable(java.io.DataInputStream)
+    public static android.app.Notification$Builder deserializedFromOldIntent(android.content.Context,byte[])
+    public static boolean isUnityActivity(java.lang.String)
+    public static android.app.Notification$Builder recoverBuilderCustom(android.content.Context,android.app.Notification)
+    public static void serializeNotification(android.content.SharedPreferences,android.app.Notification,boolean)
+    public static boolean serializeNotificationParcel(android.content.Intent,java.io.DataOutputStream)
+com.unity3d.player.B
+com.unity3d.player.G:
+    public synchronized boolean a()
+com.unity3d.player.I
+com.unity3d.player.J
+com.unity3d.player.NetworkConnectivityNougat:
+    public final android.net.ConnectivityManager$NetworkCallback c
+com.unity3d.player.PlatformSupport:
+    public static final boolean PIE_SUPPORT
+com.unity3d.player.UnityPlayer$e:
+    public final synthetic java.lang.String a
+com.unity3d.player.UnityPlayer$f:
+    public final synthetic int a
+com.unity3d.player.UnityPlayer$g:
+    public final synthetic boolean a
+com.unity3d.player.UnityPlayer$r
+com.unity3d.player.UnityPlayer$s
+com.unity3d.player.UnityPlayer:
+    public static android.app.Activity currentActivity
+    public android.app.Activity mActivity
+    public android.content.Context mContext
+    public com.unity3d.player.I mGlView
+    public android.os.Handler mHandler
+    public com.unity3d.player.B mSoftInputDialog
+    public android.content.ClipboardManager m_ClipboardManager
+    public android.view.Window m_Window
+    public android.net.Uri m_launchUri
+    public boolean injectEvent(android.view.InputEvent)
+    private final native boolean nativeInjectEvent(android.view.InputEvent)
+com.unity3d.player.u:
+    public static boolean a

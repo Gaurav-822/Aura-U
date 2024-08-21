@@ -1,0 +1,36 @@
+<libraries>
+  <library
+      name="D:\TechLove\GitHub\gadc\unity\Grid-Placer\AndroidApks@@:unityLibrary::release"
+      jars="D:\TechLove\GitHub\gadc\unity\Grid-Placer\AndroidApks\unityLibrary\build\.transforms\8372189dfea45d74b61b81f2cde285db\transformed\out\jars\classes.jar;D:\TechLove\GitHub\gadc\unity\Grid-Placer\AndroidApks\unityLibrary\build\.transforms\8372189dfea45d74b61b81f2cde285db\transformed\out\jars\libs\classes-2.jar;D:\TechLove\GitHub\gadc\unity\Grid-Placer\AndroidApks\unityLibrary\build\.transforms\8372189dfea45d74b61b81f2cde285db\transformed\out\jars\libs\unity-classes.jar"
+      resolved="AndroidApks:unityLibrary:unspecified"
+      folder="D:\TechLove\GitHub\gadc\unity\Grid-Placer\AndroidApks\unityLibrary\build\.transforms\8372189dfea45d74b61b81f2cde285db\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="__local_aars__:D:\TechLove\GitHub\gadc\unity\Grid-Placer\AndroidApks\unityLibrary\libs\classes.jar:unspecified@jar"
+      jars="D:\TechLove\GitHub\gadc\unity\Grid-Placer\AndroidApks\unityLibrary\libs\classes.jar"
+      resolved="__local_aars__:D:\TechLove\GitHub\gadc\unity\Grid-Placer\AndroidApks\unityLibrary\libs\classes.jar:unspecified"/>
+  <library
+      name="__local_aars__:D:\TechLove\GitHub\gadc\unity\Grid-Placer\AndroidApks\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+      jars="D:\TechLove\GitHub\gadc\unity\Grid-Placer\AndroidApks\unityLibrary\libs\unity-classes.jar"
+      resolved="__local_aars__:D:\TechLove\GitHub\gadc\unity\Grid-Placer\AndroidApks\unityLibrary\libs\unity-classes.jar:unspecified"/>
+  <library
+      name="D:\TechLove\GitHub\gadc\unity\Grid-Placer\AndroidApks@@:unityLibrary:mobilenotifications.androidlib::release"
+      jars="D:\TechLove\GitHub\gadc\unity\Grid-Placer\AndroidApks\unityLibrary\mobilenotifications.androidlib\build\.transforms\094c932cc89bfe02f90d894f8185a538\transformed\out\jars\classes.jar"
+      resolved="AndroidApks.unityLibrary:mobilenotifications.androidlib:unspecified"
+      folder="D:\TechLove\GitHub\gadc\unity\Grid-Placer\AndroidApks\unityLibrary\mobilenotifications.androidlib\build\.transforms\094c932cc89bfe02f90d894f8185a538\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+</libraries>
