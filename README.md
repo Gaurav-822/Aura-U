@@ -4,7 +4,7 @@
     <img src="https://raw.githubusercontent.com/Mastermind-sap/gadc/master/android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.webp" alt="Aura Within" style="border-radius: 15px; width: 150px; height: 150px;">
 </p>
 
-<h1 align="center">Aura-U</h1>
+<h1 align="center">Aura Within</h1>
 
 <!-------------------------------------------------------------BADGES------------------------------------------------------------------------>
 
@@ -16,14 +16,14 @@
   <img src="https://img.shields.io/badge/Team%20Size-3-ff69b4" alt="Team Size: 3">
 
   <!-- Project Status Badge -->
-  <img src="https://img.shields.io/badge/Status-In%20Done-brightgreen" alt="Project Status: Completed">
+  <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" alt="Project Status: In Progress">
 
   <!-- Views Badge -->
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Mastermind-sap/gadc&title=Views" alt="Views">
 
   <!-- Play on Playstore Badge -->
-  <a href="https://github.com/Mastermind-sap/gadc">
-    <img alt="Get it on Playstore" src="https://img.shields.io/badge/Get%20the-APK-3DDC84.svg">
+  <a href="https://play.google.com/store/apps/dev?id=7430834290467364031&pli=1">
+    <img alt="Get it on Playstore" src="https://img.shields.io/badge/Get%20it%20on-Playstore-3DDC84.svg">
   </a>
 </p>
 
@@ -177,8 +177,8 @@ Just download it from the Play Store or from the [releases](https://github.com/M
 
 <h2 id="team">👥 Team Members</h2>
 <p>
-  <a href="https://github.com/Gaurav-822"><img src="https://github.com/Mastermind-sap/gadc/blob/master/assets/gaurav.png" width="200" height="200" style="border-radius: 50%;" alt="Team Member 2"></a>
+  <a href="https://github.com/Gaurav-822"><img src="https://github.com/Mastermind-sap/gadc/blob/master/assets/gaurav.png" width="100" height="100" style="border-radius: 50%;" alt="Team Member 2"></a>
   <a href="https://github.com/Sid-NITS"><img src="https://github.com/Mastermind-sap/gadc/blob/master/assets/gugu.jpg" width="100" height="100" style="border-radius: 50%;" alt="Team Member 3"></a>
   <a href="https://github.com/Mastermind-sap"><img src="https://github.com/Mastermind-sap/gadc/blob/master/assets/mastermind_sap.jpg" width="100" height="100" style="border-radius: 50%;" alt="Team Member 1"></a>
+    <a href="https://github.com/padmajamazumder"><img src="https://avatars.githubusercontent.com/u/141434108?v=4" width="100" height="100" style="border-radius: 50%;" alt="Team Member 1"></a>
 </p>
-
