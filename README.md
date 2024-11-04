@@ -4,7 +4,7 @@
     <img src="https://raw.githubusercontent.com/Mastermind-sap/gadc/master/android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.webp" alt="Aura Within" style="border-radius: 15px; width: 150px; height: 150px;">
 </p>
 
-<h1 align="center">Aura Within</h1>
+<h1 align="center">Aura Unity</h1>
 
 <!-------------------------------------------------------------BADGES------------------------------------------------------------------------>
 
